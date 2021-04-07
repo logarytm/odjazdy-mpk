@@ -1,4 +1,4 @@
-# r.olgierd.me
+# Odjazdy MPK Rzeszów
 
 I didn't like the official [web thing](http://einfo.erzeszow.pl/) for bus
 departures in my city, so I wrote my own. This one is very minimal, as it does
