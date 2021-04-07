@@ -1,5 +1,5 @@
 {
-  "name": "r.olgierd.me",
+  "name": "odjazdy-mpk",
   "scripts": {
     "build": "webpack --config config/webpack/production.js",
     "clean": "del build/",
